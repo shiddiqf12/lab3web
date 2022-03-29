@@ -82,7 +82,7 @@ disini saya menggunakan element <input type="Checkbox">, berikut codenya :
           <input type="checkbox" name="Hobi" value="Musik"><label>Musik</label>
  </div> 
 ![8a](https://user-images.githubusercontent.com/73062038/160533433-a53cc6dd-2e51-4b8a-9fb3-2644a59d0982.jpg)
-  Berikut Hasilnya :
+
 ![8b](https://user-images.githubusercontent.com/73062038/160533442-e6ead368-1585-4a0f-ba25-ac99ee948476.jpg)
 
 
