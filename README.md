@@ -81,9 +81,11 @@ disini saya menggunakan element <input type="Checkbox">, berikut codenya :
           <input type="checkbox" name="Hobi" value="Memancing"><label>Memancing</label>
           <input type="checkbox" name="Hobi" value="Musik"><label>Musik</label>
  </div> 
-  ![8a](https://user-images.githubusercontent.com/73062038/160533073-180ebaab-01af-4f56-869d-8c1e5b27bc5e.jpg)
-Berikut Hasilnya :
-![8b](https://user-images.githubusercontent.com/73062038/160533194-39e7a337-b8ce-4619-aed0-06533ba6e5cf.jpg)
+![8a](https://user-images.githubusercontent.com/73062038/160533433-a53cc6dd-2e51-4b8a-9fb3-2644a59d0982.jpg)
+  Berikut Hasilnya :
+![8b](https://user-images.githubusercontent.com/73062038/160533442-e6ead368-1585-4a0f-ba25-ac99ee948476.jpg)
+
+
 
 ======================== SELESAI =======================
 
